@@ -96,7 +96,7 @@ function gEt_s0m3_viD(){
 		do
 			wget $dl -P Vid-Saved_$shRTc0D3/ &> /dev/null
 		done
-		printf "${GREEN} ✔ Video of Short Code : ${NETRAL}${shRTc0D3} ${GREEN}Have Been Downloaded ... \n"
+		printf "${GREEN} ✔ Video of Short Code ${NETRAL}${shRTc0D3} ${GREEN}Have Been Downloaded ... \n"
 	fi
 }
 b4nn3r
